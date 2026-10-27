@@ -1,0 +1,6 @@
+body { margin: 0; background: #fafafa; color: #1a1a1a; font: 17px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 680px; margin: 0 auto; padding: 48px 16px; }
+h1 { font-size: 2rem; line-height: 1.2; }
+h2 { font-size: 1.15rem; margin-top: 2rem; }
+a { color: #b3122e; }
+code { background: #eee; padding: 1px 4px; border-radius: 3px; }
